@@ -1,7 +1,7 @@
 Package.describe({
     summary: 'Azure Active Directory OAuth flow',
     version: '1.0.2',
-    name: 'wiseguyeh:azure-active-directory',
+    name: 'sbardian:sbardian-azure-active-directory',
     git: 'https://github.com/luzlab/azure-active-directory',
 });
 
